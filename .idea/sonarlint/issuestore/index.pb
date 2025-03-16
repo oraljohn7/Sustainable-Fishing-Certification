@@ -7,3 +7,5 @@ Q
 !tests/catch-documentation.test.ts,d/2/d2529900287ac52e329bae90b599f47b7063616d
 V
 &contracts/processing-verification.clar,7/6/767eadaab388eadb17b08076687f72210529c9c7
+U
+%tests/processing-verification.test.ts,2/8/28e3307a1160847461ccf637660520fa43425af8
