@@ -15,3 +15,5 @@ Z
 *tests/sustainability-certification.test.ts,2/a/2ae11a5ddbb5443254769537d5997b5b54d4c93f
 Q
 !tests/vessel-registration.test.ts,7/4/741d85d02dede1c971bc922f1c27a1564657cc52
+R
+"contracts/vessel-registration.clar,3/4/34f00294fc09f2df89e01b777f49cebd7b1ac260
